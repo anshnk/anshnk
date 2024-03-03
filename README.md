@@ -1,5 +1,6 @@
 ## My insane top level gamer stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshnk&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshnk&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshnk&layout=compact)
 
 # anshnk
 I'm basically just good like that.
