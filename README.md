@@ -18,4 +18,3 @@ Founder of [Elinement](https://github.com/Elinement) and One of the maintainers 
 
 ## Organizations I'm In:
 - [Elinement](https://github.com/Elinement)
-- [Any-VM](https://github.com/any-VM/)
