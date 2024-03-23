@@ -2,6 +2,9 @@
 I'm basically just good like that.
 Founder of [Elinement](https://github.com/Elinement) and One of the maintainers of [Anycode](https://github.com/any-VM/anycode-docs)  
 
+What I'm doing right now:  
+[![Discord Presence](https://lanyard.cnrad.dev/api/593497381820039187)](https://discord.com/users/593497381820039187)
+
 ## My insane top level gamer stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshnk&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshnk&layout=compact)
