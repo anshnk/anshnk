@@ -18,6 +18,9 @@ What I'm doing right now:
 ## Some projects I've Contributed to:
 - [Bread's Music Player](https://github.com/wheatbread2056/bread-music-player)
 - [Anycode Docs](https://github.com/any-VM/anycode-docs)
+- [Anycode](https://github.com/any-VM/anycode)
+- [Ephemeral](https://github.com/z1g-project/Ephemeral)
 
 ## Organizations I'm In:
 - [Elinement](https://github.com/Elinement)
+- [z1g project](https://github.com/z1g-project/)
